@@ -1,12 +1,10 @@
 # Tech Stocks Data Viz
 
-This Python code allows you to visualize the adjusted close prices of five major tech stocks: Apple (AAPL), Amazon (AMZN), Google (GOOGL), Microsoft (MSFT), and Facebook (FB).
+This Python code visualizes the adjusted close prices of five major tech stocks: Apple (AAPL), Amazon (AMZN), Google (GOOGL), Microsoft (MSFT), and Facebook (FB). Using the **yfinance** library, it downloads historical stock prices for the selected tickers from 2016 to 2023. Then, the code uses the popular data visualization library, **Matplotlib**, to plot the adjusted close prices for each stock.
 
-By using the **yfinance** library, the code downloads historical stock prices for the selected tickers from 2016 to 2023. Then, it uses the popular data visualization library, **Matplotlib**, to plot the adjusted close prices for each stock.
+The resulting plot shows how the stocks' prices have changed over time, allowing you to visually compare their performance. The plot is interactive, and you can hover over any point on the lines to see the exact date and corresponding price.
 
-The resulting plot shows how the stocks' prices have changed over time, allowing you to visually compare their performance. Additionally, the plot is interactive, and you can hover over any point on the lines to see the exact date and corresponding price.
-
-This code can be useful for anyone interested in tracking the performance of these popular tech stocks or for investors looking to make informed decisions about their portfolio. With its clean and visually appealing plot, this code provides an easy and accessible way to analyze stock prices.
+This tracks the performance of popular tech stocks and cal help investors looking to make informed decisions about their portfolio. With its clean and visually appealing plot, this code provides an easy and accessible way to analyze stock prices.
 
 ## Libraries Used 
 
