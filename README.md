@@ -11,6 +11,9 @@ This code can be useful for anyone interested in tracking the performance of the
 ## Libraries Used 
 
 **yfinance**: a Python library that provides an easy way to download historical market data from Yahoo! Finance.
+
 **matplotlib**: a plotting library for the Python programming language and its numerical mathematics extension NumPy.
+
 **seaborn**: a data visualization library based on matplotlib, providing a high-level interface for creating attractive and informative statistical graphics.
+
 **mplcursors**: a library that adds interactive data cursors to matplotlib plots, allowing the user to click on a plot point and view the corresponding data value.
